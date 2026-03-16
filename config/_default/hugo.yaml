@@ -6,7 +6,7 @@
 # Website name (set in params.yaml under hugoblox.branding.name)
 title: ''
 # Website URL
-baseURL: 'https://github.com/lebedev-s-a.github.io/'
+baseURL: 'https://lebedev-s-a.github.io/personal_site/'
 
 ############################
 ## LANGUAGE
